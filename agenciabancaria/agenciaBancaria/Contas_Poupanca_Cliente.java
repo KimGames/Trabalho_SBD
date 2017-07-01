@@ -27,7 +27,7 @@ public class Contas_Poupanca_Cliente {
         id_conta = idC;
     }
 
-    public int getCpf_Cliente(){
+    public String getCpf_Cliente(){
       return cpf_cliente;
     }
 
